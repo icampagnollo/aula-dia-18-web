@@ -1,0 +1,27 @@
+.valorant {
+    width: 400px;
+    border: 1px dashed yellow;
+    border-radius: 50px;
+    display: flex;
+    box-shadow: inset;
+    align-items: center;
+}
+
+div{
+    background-color: pink;
+    display: flex;
+    height: 500px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+h1{
+    font-size: 30px;
+    align-self: center;
+}
+header
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
